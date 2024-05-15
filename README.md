@@ -15,4 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<video src="assets/game_video.mp4" width="400"></video>
+
+https://github.com/shokhbro/tic_tac_toe_game/assets/139166009/6b21096b-142d-432b-beb0-1d7712632d10
+
+
